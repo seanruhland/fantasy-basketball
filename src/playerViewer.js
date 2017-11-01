@@ -1,21 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-class playerViewer extends React.Component {
-	render () {
-		return(
-		<div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-	}
+
+class PlayerViewer extends React.Component {
+  render() {
+    return(
+        <div className="playerView">
+          <h2>Players, I want this to show up!</h2>
+        </div>
+      )
+  }
 }
-
-export default playerViewer;
+export default PlayerViewer;

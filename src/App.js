@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import PlayerViewer from './playerViewer.js'
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
         </header>
         <div>
           <p className="App-intro">We are going to make an App to help us win fantasy basketball</p>
+          <playerViewer />
         </div>
       </div>
     );

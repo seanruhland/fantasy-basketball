@@ -22,6 +22,12 @@
   font-size: large;
 }
 
+.playerView {
+  height: 200px;
+  border: 2px blue;
+  display:inline-block;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
