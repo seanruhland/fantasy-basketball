@@ -22,10 +22,10 @@
   font-size: large;
 }
 
-.playerView {
+.PlayerView {
   height: 200px;
   border: 2px blue;
-  display:inline-block;
+  
 }
 
 @keyframes App-logo-spin {
