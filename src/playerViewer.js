@@ -7,23 +7,26 @@ function PlayersList(props) {
   const players = props.players
   const listItems = players.map((player) =>
         <div class="container" key={player.key.toString()}>
-            <div class="Name"> {player.NAME}</div>
+            
+            <div class="align-items-center">
+              <div class="Name"> {player.NAME}</div>
+              </div>
              <div class="row">
-                 <div class="rr rr-left" class="col-md-auto">
+                 <div class="col-6">
                   Total Games this week: {player.TOTAL}
                 </div>
-                <div class="rr rr-right" class="col-md-auto">
+                <div class="col-6">
                   Projected Points : {player.PROJ_PTS}
                 </div>
              </div>
              <div class="row">
-                 <div class=".col-6 .col-md-4">
+                 <div class="col-md-auto">
                   7 day average:       {player.AVG7}
                 </div>
-                <div class=".col-6 .col-md-4">
+                <div class="col-md-auto">
                   15 day average: {player.AVG15}
                 </div>
-                 <div class=".col-6 .col-md-4">
+                 <div class="col-md-auto">
                   30 day average: {player.AVG30}
                 </div>
                </div>

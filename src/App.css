@@ -60,7 +60,7 @@
   font-family: verdana;
   font-weight: bold;
   font-size:30px;
-  text-align:center;
+  text-align: center;
 
 }
 
@@ -74,13 +74,3 @@
   height:250px;
 }
 
-.no-gutters {
-  margin-right: 0;
-  margin-left: 0;
-
-  > .col,
-  > [class*="col-"] {
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
