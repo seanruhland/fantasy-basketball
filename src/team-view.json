@@ -1,0 +1,3049 @@
+{
+    "League": {
+        "name": "Super Best Friends League",
+        "settings": [
+            "Basic Settings",
+            "Roster",
+            "Games Played Limits (Maximums)",
+            "Scoring",
+            "Team and Division Settings",
+            "Player Rules",
+            "Acquisition and Waiver Rules",
+            "Trade Rules",
+            "Keepers Rules",
+            "Regular Season Setup",
+            "Season View",
+            "Playoff Bracket Setup",
+            "Playoff Bracket View",
+            "Draft Type",
+            "Draft Settings"
+        ],
+        "teamIds": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "7",
+            "8",
+            "9"
+        ],
+        "teams": [
+            "Nikola Jokevic (NEEK)",
+            "Triple  Bonzos (SaKo)",
+            "The Condiment Conglomerate (HINZ)",
+            "LaMarc Gasoldridge (LMGA)",
+            "J.R.'s GLUE CREW (#GLU)",
+            "FUCK AVERY BRADLEY (F_AB)",
+            "Splashimus Prime (Mash)",
+            "Raging Harden (RUHL)"
+        ]
+    },
+    "Player": {},
+    "Team": {
+        "1": {
+            "name": "Nikola Jokevic (NEEK)",
+            "players": [
+                "Goran Dragic",
+                "Bradley Beal",
+                "Harrison Barnes",
+                "Nikola Jokic",
+                "Nikola Vucevic",
+                "Ricky Rubio",
+                "Paul Millsap",
+                "DeAndre Jordan",
+                "Jrue Holiday",
+                "Danilo Gallinari",
+                "Al Horford",
+                "Clint Capela",
+                "Steven Adams",
+                "Taurean Prince",
+                "Thaddeus Young",
+                "Chris Paul*",
+                "Elfrid Payton*"
+            ],
+            "roster": [],
+            "schedule": [
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 1 (Oct 17 - 22)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "L 1512-1610",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 2 (Oct 23 - 29)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "W 2241.5-1616",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 3 (Oct 30 - Nov 5)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 4 (Nov 6 - 12)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 5 (Nov 13 - 19)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 6 (Nov 20 - 26)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 7 (Nov 27 - Dec 3)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 8 (Dec 4 - 10)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 9 (Dec 11 - 17)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 10 (Dec 18 - 24)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 11 (Dec 25 - 31)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 12 (Jan 1 - 7)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 13 (Jan 8 - 14)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 14 (Jan 15 - 21)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 15 (Jan 22 - 28)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 16 (Jan 29 - Feb 4)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 17 (Feb 5 - 11)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 18 (Feb 12 - 25)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 19 (Feb 26 - Mar 4)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 20 (Mar 5 - 11)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 1 (Mar 12 - 25)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 2 (Mar 26 - Apr 11)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                }
+            ],
+            "scoring": [
+                {
+                    "AVG15": 68.1,
+                    "AVG30": 64.3,
+                    "AVG7": 78.1,
+                    "AVGS": 64.3,
+                    "PLAYERNAME": "Nikola Jokic"
+                },
+                {
+                    "AVG15": 55.2,
+                    "AVG30": 56.5,
+                    "AVG7": 53.6,
+                    "AVGS": 56.5,
+                    "PLAYERNAME": "Clint Capela"
+                },
+                {
+                    "AVG15": 57.3,
+                    "AVG30": 54.4,
+                    "AVG7": 54.1,
+                    "AVGS": 54.4,
+                    "PLAYERNAME": "Al Horford"
+                },
+                {
+                    "AVG15": 51.6,
+                    "AVG30": 53.5,
+                    "AVG7": 49.3,
+                    "AVGS": 53.5,
+                    "PLAYERNAME": "Steven Adams"
+                },
+                {
+                    "AVG15": 49.2,
+                    "AVG30": 51.4,
+                    "AVG7": 32.5,
+                    "AVGS": 51.4,
+                    "PLAYERNAME": "Nikola Vucevic"
+                },
+                {
+                    "AVG15": 46.8,
+                    "AVG30": 51.1,
+                    "AVG7": 42.3,
+                    "AVGS": 51.1,
+                    "PLAYERNAME": "DeAndre Jordan"
+                },
+                {
+                    "AVG15": 47.4,
+                    "AVG30": 48.8,
+                    "AVG7": 58.7,
+                    "AVGS": 48.8,
+                    "PLAYERNAME": "Bradley Beal"
+                },
+                {
+                    "AVG15": 47.2,
+                    "AVG30": 46.0,
+                    "AVG7": 48.8,
+                    "AVGS": 46.0,
+                    "PLAYERNAME": "Goran Dragic"
+                },
+                {
+                    "AVG15": 45.8,
+                    "AVG30": 45.6,
+                    "AVG7": 44.3,
+                    "AVGS": 45.6,
+                    "PLAYERNAME": "Ricky Rubio"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": 45.0,
+                    "AVG7": null,
+                    "AVGS": 45.0,
+                    "PLAYERNAME": "Chris Paul"
+                },
+                {
+                    "AVG15": 45.2,
+                    "AVG30": 42.6,
+                    "AVG7": 56.3,
+                    "AVGS": 42.6,
+                    "PLAYERNAME": "Paul Millsap"
+                },
+                {
+                    "AVG15": 45.6,
+                    "AVG30": 41.4,
+                    "AVG7": 49.0,
+                    "AVGS": 41.4,
+                    "PLAYERNAME": "Jrue Holiday"
+                },
+                {
+                    "AVG15": 35.2,
+                    "AVG30": 38.1,
+                    "AVG7": 43.3,
+                    "AVGS": 38.1,
+                    "PLAYERNAME": "Thaddeus Young"
+                },
+                {
+                    "AVG15": 12.5,
+                    "AVG30": 34.3,
+                    "AVG7": null,
+                    "AVGS": 34.3,
+                    "PLAYERNAME": "Elfrid Payton"
+                },
+                {
+                    "AVG15": 33.6,
+                    "AVG30": 34.2,
+                    "AVG7": 37.2,
+                    "AVGS": 34.2,
+                    "PLAYERNAME": "Taurean Prince"
+                },
+                {
+                    "AVG15": 33.2,
+                    "AVG30": 32.0,
+                    "AVG7": 36.1,
+                    "AVGS": 32.0,
+                    "PLAYERNAME": "Harrison Barnes"
+                },
+                {
+                    "AVG15": 28.9,
+                    "AVG30": 29.2,
+                    "AVG7": 30.2,
+                    "AVGS": 29.2,
+                    "PLAYERNAME": "Danilo Gallinari"
+                }
+            ],
+            "statistics": [
+                29.2,
+                64.3,
+                45.2,
+                45.6,
+                9.6,
+                0.06,
+                -0.53
+            ],
+            "teamId": []
+        },
+        "2": {
+            "name": "Triple  Bonzos (SaKo)",
+            "players": [
+                "Kyrie Irving",
+                "Wesley Matthews",
+                "LeBron James",
+                "Lauri Markkanen",
+                "John Collins",
+                "Lonzo Ball",
+                "TJ Warren",
+                "Russell Westbrook",
+                "Klay Thompson",
+                "Robin Lopez",
+                "Pau Gasol",
+                "Frank Kaminsky",
+                "Terry Rozier",
+                "Josh Richardson",
+                "Kentavious Caldwell-Pope",
+                "Zach LaVine*",
+                "JaMychal Green*"
+            ],
+            "roster": [],
+            "schedule": [
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 1 (Oct 17 - 22)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "L 1431-1503.5",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 2 (Oct 23 - 29)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "L 2059.5-2378",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 3 (Oct 30 - Nov 5)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 4 (Nov 6 - 12)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 5 (Nov 13 - 19)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 6 (Nov 20 - 26)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 7 (Nov 27 - Dec 3)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 8 (Dec 4 - 10)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 9 (Dec 11 - 17)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 10 (Dec 18 - 24)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 11 (Dec 25 - 31)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 12 (Jan 1 - 7)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 13 (Jan 8 - 14)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 14 (Jan 15 - 21)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 15 (Jan 22 - 28)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 16 (Jan 29 - Feb 4)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 17 (Feb 5 - 11)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 18 (Feb 12 - 25)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 19 (Feb 26 - Mar 4)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 20 (Mar 5 - 11)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 1 (Mar 12 - 25)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 2 (Mar 26 - Apr 11)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                }
+            ],
+            "scoring": [
+                {
+                    "AVG15": 87.3,
+                    "AVG30": 89.2,
+                    "AVG7": 88.1,
+                    "AVGS": 89.2,
+                    "PLAYERNAME": "LeBron James"
+                },
+                {
+                    "AVG15": 73.8,
+                    "AVG30": 77.3,
+                    "AVG7": 69.0,
+                    "AVGS": 77.3,
+                    "PLAYERNAME": "Russell Westbrook"
+                },
+                {
+                    "AVG15": 57.0,
+                    "AVG30": 54.8,
+                    "AVG7": 60.6,
+                    "AVGS": 54.8,
+                    "PLAYERNAME": "Kyrie Irving"
+                },
+                {
+                    "AVG15": 46.8,
+                    "AVG30": 47.7,
+                    "AVG7": 49.2,
+                    "AVGS": 47.7,
+                    "PLAYERNAME": "Klay Thompson"
+                },
+                {
+                    "AVG15": 43.6,
+                    "AVG30": 41.8,
+                    "AVG7": 48.2,
+                    "AVGS": 41.8,
+                    "PLAYERNAME": "Lauri Markkanen"
+                },
+                {
+                    "AVG15": 41.4,
+                    "AVG30": 41.2,
+                    "AVG7": 49.4,
+                    "AVGS": 41.2,
+                    "PLAYERNAME": "Pau Gasol"
+                },
+                {
+                    "AVG15": 39.9,
+                    "AVG30": 40.3,
+                    "AVG7": 40.0,
+                    "AVGS": 40.3,
+                    "PLAYERNAME": "Robin Lopez"
+                },
+                {
+                    "AVG15": 41.6,
+                    "AVG30": 37.9,
+                    "AVG7": 46.6,
+                    "AVGS": 37.9,
+                    "PLAYERNAME": "TJ Warren"
+                },
+                {
+                    "AVG15": 35.1,
+                    "AVG30": 35.5,
+                    "AVG7": 39.2,
+                    "AVGS": 35.5,
+                    "PLAYERNAME": "John Collins"
+                },
+                {
+                    "AVG15": 36.2,
+                    "AVG30": 35.2,
+                    "AVG7": 26.4,
+                    "AVGS": 35.2,
+                    "PLAYERNAME": "Lonzo Ball"
+                },
+                {
+                    "AVG15": 28.9,
+                    "AVG30": 28.9,
+                    "AVG7": 24.8,
+                    "AVGS": 28.9,
+                    "PLAYERNAME": "Kentavious Caldwell-Pope"
+                },
+                {
+                    "AVG15": 22.6,
+                    "AVG30": 28.4,
+                    "AVG7": 17.9,
+                    "AVGS": 28.4,
+                    "PLAYERNAME": "Terry Rozier"
+                },
+                {
+                    "AVG15": 24.9,
+                    "AVG30": 27.0,
+                    "AVG7": 24.1,
+                    "AVGS": 27.0,
+                    "PLAYERNAME": "Wesley Matthews"
+                },
+                {
+                    "AVG15": 30.1,
+                    "AVG30": 26.2,
+                    "AVG7": 20.2,
+                    "AVGS": 26.2,
+                    "PLAYERNAME": "Frank Kaminsky"
+                },
+                {
+                    "AVG15": 24.1,
+                    "AVG30": 23.1,
+                    "AVG7": 13.9,
+                    "AVGS": 23.1,
+                    "PLAYERNAME": "Josh Richardson"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": 8.0,
+                    "AVG7": null,
+                    "AVGS": 8.0,
+                    "PLAYERNAME": "JaMychal Green"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "Zach LaVine"
+                }
+            ],
+            "statistics": [
+                8.0,
+                89.2,
+                40.16,
+                36.7,
+                20.11,
+                1.18,
+                1.77
+            ],
+            "teamId": []
+        },
+        "3": {
+            "name": "The Condiment Conglomerate (HINZ)",
+            "players": [
+                "Darren Collison",
+                "Gary Harris",
+                "Jae Crowder",
+                "Anthony Davis",
+                "Marc Gasol",
+                "Kemba Walker",
+                "Draymond Green",
+                "Jerian Grant",
+                "David West",
+                "Dirk Nowitzki",
+                "Damian Lillard",
+                "Marcin Gortat",
+                "Kent Bazemore",
+                "Jeremy Lamb",
+                "Tim Hardaway Jr.",
+                "Gordon Hayward*",
+                "Rajon Rondo*"
+            ],
+            "roster": [],
+            "schedule": [
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 1 (Oct 17 - 22)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "W 1715.5-1602.5",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 2 (Oct 23 - 29)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "L 1956.5-1982",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 3 (Oct 30 - Nov 5)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 4 (Nov 6 - 12)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 5 (Nov 13 - 19)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 6 (Nov 20 - 26)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 7 (Nov 27 - Dec 3)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 8 (Dec 4 - 10)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 9 (Dec 11 - 17)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 10 (Dec 18 - 24)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 11 (Dec 25 - 31)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 12 (Jan 1 - 7)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 13 (Jan 8 - 14)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 14 (Jan 15 - 21)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 15 (Jan 22 - 28)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 16 (Jan 29 - Feb 4)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 17 (Feb 5 - 11)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 18 (Feb 12 - 25)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 19 (Feb 26 - Mar 4)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 20 (Mar 5 - 11)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 1 (Mar 12 - 25)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 2 (Mar 26 - Apr 11)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                }
+            ],
+            "scoring": [
+                {
+                    "AVG15": 82.9,
+                    "AVG30": 81.3,
+                    "AVG7": 89.4,
+                    "AVGS": 81.3,
+                    "PLAYERNAME": "Anthony Davis"
+                },
+                {
+                    "AVG15": 54.8,
+                    "AVG30": 57.7,
+                    "AVG7": 65.9,
+                    "AVGS": 57.7,
+                    "PLAYERNAME": "Damian Lillard"
+                },
+                {
+                    "AVG15": 58.4,
+                    "AVG30": 57.6,
+                    "AVG7": 40.3,
+                    "AVGS": 57.6,
+                    "PLAYERNAME": "Marc Gasol"
+                },
+                {
+                    "AVG15": 54.8,
+                    "AVG30": 53.9,
+                    "AVG7": 58.6,
+                    "AVGS": 53.9,
+                    "PLAYERNAME": "Kemba Walker"
+                },
+                {
+                    "AVG15": 44.8,
+                    "AVG30": 47.9,
+                    "AVG7": 49.5,
+                    "AVGS": 47.9,
+                    "PLAYERNAME": "Draymond Green"
+                },
+                {
+                    "AVG15": 40.9,
+                    "AVG30": 45.6,
+                    "AVG7": 31.6,
+                    "AVGS": 45.6,
+                    "PLAYERNAME": "Darren Collison"
+                },
+                {
+                    "AVG15": 41.6,
+                    "AVG30": 45.6,
+                    "AVG7": 39.7,
+                    "AVGS": 45.6,
+                    "PLAYERNAME": "Marcin Gortat"
+                },
+                {
+                    "AVG15": 45.6,
+                    "AVG30": 43.5,
+                    "AVG7": 58.0,
+                    "AVGS": 43.5,
+                    "PLAYERNAME": "Jeremy Lamb"
+                },
+                {
+                    "AVG15": 32.8,
+                    "AVG30": 34.8,
+                    "AVG7": 38.1,
+                    "AVGS": 34.8,
+                    "PLAYERNAME": "Gary Harris"
+                },
+                {
+                    "AVG15": 32.6,
+                    "AVG30": 32.1,
+                    "AVG7": 23.5,
+                    "AVGS": 32.1,
+                    "PLAYERNAME": "Jerian Grant"
+                },
+                {
+                    "AVG15": 31.8,
+                    "AVG30": 31.3,
+                    "AVG7": 32.3,
+                    "AVGS": 31.3,
+                    "PLAYERNAME": "Kent Bazemore"
+                },
+                {
+                    "AVG15": 32.2,
+                    "AVG30": 27.9,
+                    "AVG7": 54.6,
+                    "AVGS": 27.9,
+                    "PLAYERNAME": "Tim Hardaway Jr."
+                },
+                {
+                    "AVG15": 28.9,
+                    "AVG30": 26.8,
+                    "AVG7": 24.7,
+                    "AVGS": 26.8,
+                    "PLAYERNAME": "David West"
+                },
+                {
+                    "AVG15": 28.3,
+                    "AVG30": 26.3,
+                    "AVG7": 32.8,
+                    "AVGS": 26.3,
+                    "PLAYERNAME": "Dirk Nowitzki"
+                },
+                {
+                    "AVG15": 18.9,
+                    "AVG30": 19.8,
+                    "AVG7": 21.4,
+                    "AVGS": 19.8,
+                    "PLAYERNAME": "Jae Crowder"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": 2.5,
+                    "AVG7": null,
+                    "AVGS": 2.5,
+                    "PLAYERNAME": "Gordon Hayward"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "Rajon Rondo"
+                }
+            ],
+            "statistics": [
+                2.5,
+                81.3,
+                39.66,
+                39.15,
+                18.52,
+                0.26,
+                0.88
+            ],
+            "teamId": []
+        },
+        "4": {
+            "name": "LaMarc Gasoldridge (LMGA)",
+            "players": [
+                "D'Angelo Russell",
+                "Dion Waiters",
+                "Jayson Tatum",
+                "Kelly Olynyk",
+                "Dennis Smith Jr.",
+                "Kevin Durant",
+                "Tobias Harris",
+                "Lou Williams",
+                "Giannis Antetokounmpo",
+                "Joel Embiid",
+                "Eric Gordon",
+                "Brandon Ingram",
+                "Evan Fournier",
+                "Ed Davis",
+                "Kyle Kuzma"
+            ],
+            "roster": [],
+            "schedule": [
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 1 (Oct 17 - 22)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "L 1586.5-1677",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 2 (Oct 23 - 29)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "W 1982-1956.5",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 3 (Oct 30 - Nov 5)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 4 (Nov 6 - 12)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 5 (Nov 13 - 19)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 6 (Nov 20 - 26)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 7 (Nov 27 - Dec 3)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 8 (Dec 4 - 10)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 9 (Dec 11 - 17)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 10 (Dec 18 - 24)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 11 (Dec 25 - 31)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 12 (Jan 1 - 7)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 13 (Jan 8 - 14)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 14 (Jan 15 - 21)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 15 (Jan 22 - 28)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 16 (Jan 29 - Feb 4)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 17 (Feb 5 - 11)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 18 (Feb 12 - 25)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 19 (Feb 26 - Mar 4)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 20 (Mar 5 - 11)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 1 (Mar 12 - 25)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 2 (Mar 26 - Apr 11)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                }
+            ],
+            "scoring": [
+                {
+                    "AVG15": 85.2,
+                    "AVG30": 86.3,
+                    "AVG7": 69.8,
+                    "AVGS": 86.3,
+                    "PLAYERNAME": "Giannis Antetokounmpo"
+                },
+                {
+                    "AVG15": 72.6,
+                    "AVG30": 70.4,
+                    "AVG7": 67.2,
+                    "AVGS": 70.4,
+                    "PLAYERNAME": "Kevin Durant"
+                },
+                {
+                    "AVG15": 60.4,
+                    "AVG30": 59.1,
+                    "AVG7": 65.3,
+                    "AVGS": 59.1,
+                    "PLAYERNAME": "Joel Embiid"
+                },
+                {
+                    "AVG15": 55.8,
+                    "AVG30": 54.8,
+                    "AVG7": 49.8,
+                    "AVGS": 54.8,
+                    "PLAYERNAME": "Evan Fournier"
+                },
+                {
+                    "AVG15": 38.8,
+                    "AVG30": 41.8,
+                    "AVG7": 37.5,
+                    "AVGS": 41.8,
+                    "PLAYERNAME": "D'Angelo Russell"
+                },
+                {
+                    "AVG15": 41.1,
+                    "AVG30": 40.2,
+                    "AVG7": 36.8,
+                    "AVGS": 40.2,
+                    "PLAYERNAME": "Jayson Tatum"
+                },
+                {
+                    "AVG15": 33.4,
+                    "AVG30": 38.2,
+                    "AVG7": 25.9,
+                    "AVGS": 38.2,
+                    "PLAYERNAME": "Tobias Harris"
+                },
+                {
+                    "AVG15": 38.6,
+                    "AVG30": 36.8,
+                    "AVG7": 46.3,
+                    "AVGS": 36.8,
+                    "PLAYERNAME": "Kyle Kuzma"
+                },
+                {
+                    "AVG15": 38.8,
+                    "AVG30": 36.4,
+                    "AVG7": 46.6,
+                    "AVGS": 36.4,
+                    "PLAYERNAME": "Brandon Ingram"
+                },
+                {
+                    "AVG15": 37.9,
+                    "AVG30": 36.2,
+                    "AVG7": 41.2,
+                    "AVGS": 36.2,
+                    "PLAYERNAME": "Eric Gordon"
+                },
+                {
+                    "AVG15": 36.7,
+                    "AVG30": 36.1,
+                    "AVG7": 34.3,
+                    "AVGS": 36.1,
+                    "PLAYERNAME": "Kelly Olynyk"
+                },
+                {
+                    "AVG15": 31.9,
+                    "AVG30": 31.8,
+                    "AVG7": 34.3,
+                    "AVGS": 31.8,
+                    "PLAYERNAME": "Ed Davis"
+                },
+                {
+                    "AVG15": 29.8,
+                    "AVG30": 30.8,
+                    "AVG7": 30.3,
+                    "AVGS": 30.8,
+                    "PLAYERNAME": "Lou Williams"
+                },
+                {
+                    "AVG15": 31.1,
+                    "AVG30": 30.1,
+                    "AVG7": 32.5,
+                    "AVGS": 30.1,
+                    "PLAYERNAME": "Dion Waiters"
+                },
+                {
+                    "AVG15": 19.4,
+                    "AVG30": 23.4,
+                    "AVG7": 11.8,
+                    "AVGS": 23.4,
+                    "PLAYERNAME": "Dennis Smith Jr."
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "\u00a0"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "\u00a0"
+                }
+            ],
+            "statistics": [
+                23.4,
+                86.3,
+                43.49,
+                36.8,
+                17.02,
+                1.46,
+                1.75
+            ],
+            "teamId": []
+        },
+        "5": {
+            "name": "J.R.'s GLUE CREW (#GLU)",
+            "players": [
+                "Patrick Beverley",
+                "Will Barton",
+                "Tyreke Evans",
+                "Carmelo Anthony",
+                "Eric Bledsoe*",
+                "Joe Ingles",
+                "Blake Griffin",
+                "Andrew Wiggins",
+                "Avery Bradley",
+                "Paul George",
+                "Rudy Gobert",
+                "Kyle Lowry",
+                "Dwight Howard",
+                "Spencer Dinwiddie",
+                "Julius Randle",
+                "Kawhi Leonard*",
+                "Isaiah Thomas*"
+            ],
+            "roster": [],
+            "schedule": [
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 1 (Oct 17 - 22)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "W 1503.5-1431",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 2 (Oct 23 - 29)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "L 1616-2241.5",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 3 (Oct 30 - Nov 5)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 4 (Nov 6 - 12)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 5 (Nov 13 - 19)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 6 (Nov 20 - 26)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 7 (Nov 27 - Dec 3)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 8 (Dec 4 - 10)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 9 (Dec 11 - 17)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 10 (Dec 18 - 24)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 11 (Dec 25 - 31)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 12 (Jan 1 - 7)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 13 (Jan 8 - 14)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 14 (Jan 15 - 21)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 15 (Jan 22 - 28)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 16 (Jan 29 - Feb 4)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 17 (Feb 5 - 11)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 18 (Feb 12 - 25)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 19 (Feb 26 - Mar 4)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 20 (Mar 5 - 11)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 1 (Mar 12 - 25)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 2 (Mar 26 - Apr 11)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                }
+            ],
+            "scoring": [
+                {
+                    "AVG15": 55.7,
+                    "AVG30": 58.6,
+                    "AVG7": 46.7,
+                    "AVGS": 58.6,
+                    "PLAYERNAME": "Blake Griffin"
+                },
+                {
+                    "AVG15": 59.1,
+                    "AVG30": 58.4,
+                    "AVG7": 58.3,
+                    "AVGS": 58.4,
+                    "PLAYERNAME": "Rudy Gobert"
+                },
+                {
+                    "AVG15": 50.1,
+                    "AVG30": 50.6,
+                    "AVG7": 40.0,
+                    "AVGS": 50.6,
+                    "PLAYERNAME": "Dwight Howard"
+                },
+                {
+                    "AVG15": 45.1,
+                    "AVG30": 45.6,
+                    "AVG7": 49.7,
+                    "AVGS": 45.6,
+                    "PLAYERNAME": "Kyle Lowry"
+                },
+                {
+                    "AVG15": 41.8,
+                    "AVG30": 43.0,
+                    "AVG7": 45.7,
+                    "AVGS": 43.0,
+                    "PLAYERNAME": "Paul George"
+                },
+                {
+                    "AVG15": 43.6,
+                    "AVG30": 42.1,
+                    "AVG7": 39.2,
+                    "AVGS": 42.1,
+                    "PLAYERNAME": "Carmelo Anthony"
+                },
+                {
+                    "AVG15": 42.3,
+                    "AVG30": 39.3,
+                    "AVG7": 53.5,
+                    "AVGS": 39.3,
+                    "PLAYERNAME": "Tyreke Evans"
+                },
+                {
+                    "AVG15": 36.1,
+                    "AVG30": 38.6,
+                    "AVG7": 39.6,
+                    "AVGS": 38.6,
+                    "PLAYERNAME": "Joe Ingles"
+                },
+                {
+                    "AVG15": 39.7,
+                    "AVG30": 37.4,
+                    "AVG7": 35.8,
+                    "AVGS": 37.4,
+                    "PLAYERNAME": "Patrick Beverley"
+                },
+                {
+                    "AVG15": 40.3,
+                    "AVG30": 36.7,
+                    "AVG7": 45.0,
+                    "AVGS": 36.7,
+                    "PLAYERNAME": "Spencer Dinwiddie"
+                },
+                {
+                    "AVG15": 29.9,
+                    "AVG30": 33.1,
+                    "AVG7": 28.9,
+                    "AVGS": 33.1,
+                    "PLAYERNAME": "Will Barton"
+                },
+                {
+                    "AVG15": 33.5,
+                    "AVG30": 32.3,
+                    "AVG7": 30.4,
+                    "AVGS": 32.3,
+                    "PLAYERNAME": "Julius Randle"
+                },
+                {
+                    "AVG15": 33.7,
+                    "AVG30": 31.7,
+                    "AVG7": 38.5,
+                    "AVGS": 31.7,
+                    "PLAYERNAME": "Jonathon Simmons"
+                },
+                {
+                    "AVG15": 27.6,
+                    "AVG30": 30.8,
+                    "AVG7": 19.8,
+                    "AVGS": 30.8,
+                    "PLAYERNAME": "Andrew Wiggins"
+                },
+                {
+                    "AVG15": 32.5,
+                    "AVG30": 27.5,
+                    "AVG7": null,
+                    "AVGS": 27.5,
+                    "PLAYERNAME": "Eric Bledsoe"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "Kawhi Leonard"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "Isaiah Thomas"
+                }
+            ],
+            "statistics": [
+                27.5,
+                58.6,
+                40.38,
+                38.6,
+                9.55,
+                0.8,
+                -0.12
+            ],
+            "teamId": []
+        },
+        "7": {
+            "name": "FUCK AVERY BRADLEY (F_AB)",
+            "players": [
+                "Dennis Schroder",
+                "DeMar DeRozan",
+                "Kelly Oubre Jr.",
+                "Kristaps Porzingis",
+                "Jonas Valanciunas",
+                "James Ennis III",
+                "Karl-Anthony Towns",
+                "Mike Conley",
+                "J.J. Barea",
+                "CJ McCollum",
+                "Jusuf Nurkic",
+                "Robert Covington",
+                "Jaylen Brown",
+                "Domantas Sabonis",
+                "Brook Lopez",
+                "Nicolas Batum*",
+                "Myles Turner"
+            ],
+            "roster": [],
+            "schedule": [
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 1 (Oct 17 - 22)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "L 1602.5-1715.5",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 2 (Oct 23 - 29)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "L 1784-2366.5",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 3 (Oct 30 - Nov 5)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 4 (Nov 6 - 12)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 5 (Nov 13 - 19)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 6 (Nov 20 - 26)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 7 (Nov 27 - Dec 3)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 8 (Dec 4 - 10)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 9 (Dec 11 - 17)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 10 (Dec 18 - 24)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 11 (Dec 25 - 31)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 12 (Jan 1 - 7)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 13 (Jan 8 - 14)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 14 (Jan 15 - 21)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 15 (Jan 22 - 28)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 16 (Jan 29 - Feb 4)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 17 (Feb 5 - 11)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 18 (Feb 12 - 25)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 19 (Feb 26 - Mar 4)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 20 (Mar 5 - 11)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 1 (Mar 12 - 25)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 2 (Mar 26 - Apr 11)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                }
+            ],
+            "scoring": [
+                {
+                    "AVG15": 63.6,
+                    "AVG30": 63.4,
+                    "AVG7": 45.8,
+                    "AVGS": 63.4,
+                    "PLAYERNAME": "Karl-Anthony Towns"
+                },
+                {
+                    "AVG15": 56.4,
+                    "AVG30": 57.1,
+                    "AVG7": 64.9,
+                    "AVGS": 57.1,
+                    "PLAYERNAME": "Kristaps Porzingis"
+                },
+                {
+                    "AVG15": 27.5,
+                    "AVG30": 56.3,
+                    "AVG7": 27.5,
+                    "AVGS": 56.3,
+                    "PLAYERNAME": "Myles Turner"
+                },
+                {
+                    "AVG15": 50.6,
+                    "AVG30": 50.2,
+                    "AVG7": 61.8,
+                    "AVGS": 50.2,
+                    "PLAYERNAME": "Domantas Sabonis"
+                },
+                {
+                    "AVG15": 49.4,
+                    "AVG30": 47.8,
+                    "AVG7": 37.2,
+                    "AVGS": 47.8,
+                    "PLAYERNAME": "DeMar DeRozan"
+                },
+                {
+                    "AVG15": 46.4,
+                    "AVG30": 46.4,
+                    "AVG7": 37.9,
+                    "AVGS": 46.4,
+                    "PLAYERNAME": "CJ McCollum"
+                },
+                {
+                    "AVG15": 44.3,
+                    "AVG30": 46.3,
+                    "AVG7": 47.3,
+                    "AVGS": 46.3,
+                    "PLAYERNAME": "Dennis Schroder"
+                },
+                {
+                    "AVG15": 37.6,
+                    "AVG30": 41.5,
+                    "AVG7": 42.1,
+                    "AVGS": 41.5,
+                    "PLAYERNAME": "Robert Covington"
+                },
+                {
+                    "AVG15": 38.7,
+                    "AVG30": 39.5,
+                    "AVG7": 43.8,
+                    "AVGS": 39.5,
+                    "PLAYERNAME": "Larry nullce Jr."
+                },
+                {
+                    "AVG15": 39.8,
+                    "AVG30": 39.0,
+                    "AVG7": 48.5,
+                    "AVGS": 39.0,
+                    "PLAYERNAME": "Jusuf Nurkic"
+                },
+                {
+                    "AVG15": 38.3,
+                    "AVG30": 38.1,
+                    "AVG7": 43.8,
+                    "AVGS": 38.1,
+                    "PLAYERNAME": "Brook Lopez"
+                },
+                {
+                    "AVG15": 24.3,
+                    "AVG30": 37.1,
+                    "AVG7": 29.5,
+                    "AVGS": 37.1,
+                    "PLAYERNAME": "Jonas Valanciunas"
+                },
+                {
+                    "AVG15": 33.6,
+                    "AVG30": 34.9,
+                    "AVG7": 36.1,
+                    "AVGS": 34.9,
+                    "PLAYERNAME": "Jaylen Brown"
+                },
+                {
+                    "AVG15": 31.4,
+                    "AVG30": 34.6,
+                    "AVG7": 29.3,
+                    "AVGS": 34.6,
+                    "PLAYERNAME": "Kelly Oubre Jr."
+                },
+                {
+                    "AVG15": 28.1,
+                    "AVG30": 33.6,
+                    "AVG7": 19.5,
+                    "AVGS": 33.6,
+                    "PLAYERNAME": "Mike Conley"
+                },
+                {
+                    "AVG15": 32.0,
+                    "AVG30": 32.0,
+                    "AVG7": 32.3,
+                    "AVGS": 32.0,
+                    "PLAYERNAME": "Alex Len"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "Nicolas Batum"
+                }
+            ],
+            "statistics": [
+                32.0,
+                63.4,
+                43.61,
+                40.5,
+                9.37,
+                0.75,
+                -0.37
+            ],
+            "teamId": []
+        },
+        "8": {
+            "name": "Splashimus Prime (Mash)",
+            "players": [
+                "De'Aaron Fox",
+                "Malcolm Brogdon",
+                "Aaron Gordon",
+                "Taj Gibson",
+                "DeMarcus Cousins",
+                "Jeff Teague",
+                "Jimmy Butler",
+                "Andre Drummond",
+                "James Johnson",
+                "Rondae Hollis-Jefferson",
+                "John Wall",
+                "LaMarcus Aldridge",
+                "Kevin Love",
+                "Dejounte Murray",
+                "T.J. McConnell"
+            ],
+            "roster": [],
+            "schedule": [
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 1 (Oct 17 - 22)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "W 1677-1586.5",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 2 (Oct 23 - 29)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "W 2378-2059.5",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 3 (Oct 30 - Nov 5)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 4 (Nov 6 - 12)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 5 (Nov 13 - 19)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 6 (Nov 20 - 26)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 7 (Nov 27 - Dec 3)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 8 (Dec 4 - 10)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 9 (Dec 11 - 17)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 10 (Dec 18 - 24)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 11 (Dec 25 - 31)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 12 (Jan 1 - 7)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 13 (Jan 8 - 14)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 14 (Jan 15 - 21)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 15 (Jan 22 - 28)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 16 (Jan 29 - Feb 4)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 17 (Feb 5 - 11)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 18 (Feb 12 - 25)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 19 (Feb 26 - Mar 4)",
+                    "OPPONENT": "Raging Harden (2-0)",
+                    "OWNER": "Sean Ruhland",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 20 (Mar 5 - 11)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 1 (Mar 12 - 25)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 2 (Mar 26 - Apr 11)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                }
+            ],
+            "scoring": [
+                {
+                    "AVG15": 92.4,
+                    "AVG30": 90.9,
+                    "AVG7": 91.3,
+                    "AVGS": 90.9,
+                    "PLAYERNAME": "DeMarcus Cousins"
+                },
+                {
+                    "AVG15": 66.5,
+                    "AVG30": 65.2,
+                    "AVG7": 70.5,
+                    "AVGS": 65.2,
+                    "PLAYERNAME": "Andre Drummond"
+                },
+                {
+                    "AVG15": 59.5,
+                    "AVG30": 58.8,
+                    "AVG7": 61.5,
+                    "AVGS": 58.8,
+                    "PLAYERNAME": "John Wall"
+                },
+                {
+                    "AVG15": 59.2,
+                    "AVG30": 56.9,
+                    "AVG7": 47.3,
+                    "AVGS": 56.9,
+                    "PLAYERNAME": "Aaron Gordon"
+                },
+                {
+                    "AVG15": 53.8,
+                    "AVG30": 55.1,
+                    "AVG7": 41.6,
+                    "AVGS": 55.1,
+                    "PLAYERNAME": "LaMarcus Aldridge"
+                },
+                {
+                    "AVG15": 49.3,
+                    "AVG30": 48.3,
+                    "AVG7": 53.9,
+                    "AVGS": 48.3,
+                    "PLAYERNAME": "Kevin Love"
+                },
+                {
+                    "AVG15": 46.6,
+                    "AVG30": 45.6,
+                    "AVG7": 39.5,
+                    "AVGS": 45.6,
+                    "PLAYERNAME": "James Johnson"
+                },
+                {
+                    "AVG15": 45.9,
+                    "AVG30": 45.6,
+                    "AVG7": 56.3,
+                    "AVGS": 45.6,
+                    "PLAYERNAME": "Jeff Teague"
+                },
+                {
+                    "AVG15": 46.0,
+                    "AVG30": 42.9,
+                    "AVG7": 40.3,
+                    "AVGS": 42.9,
+                    "PLAYERNAME": "Jimmy Butler"
+                },
+                {
+                    "AVG15": 40.8,
+                    "AVG30": 40.9,
+                    "AVG7": 48.7,
+                    "AVGS": 40.9,
+                    "PLAYERNAME": "Rondae Hollis-Jefferson"
+                },
+                {
+                    "AVG15": 39.4,
+                    "AVG30": 39.9,
+                    "AVG7": 40.0,
+                    "AVGS": 39.9,
+                    "PLAYERNAME": "Malcolm Brogdon"
+                },
+                {
+                    "AVG15": 36.9,
+                    "AVG30": 33.5,
+                    "AVG7": 40.0,
+                    "AVGS": 33.5,
+                    "PLAYERNAME": "Taj Gibson"
+                },
+                {
+                    "AVG15": 36.1,
+                    "AVG30": 33.3,
+                    "AVG7": 46.9,
+                    "AVGS": 33.3,
+                    "PLAYERNAME": "T.J. McConnell"
+                },
+                {
+                    "AVG15": 32.6,
+                    "AVG30": 31.8,
+                    "AVG7": 21.8,
+                    "AVGS": 31.8,
+                    "PLAYERNAME": "De'Aaron Fox"
+                },
+                {
+                    "AVG15": 27.3,
+                    "AVG30": 30.3,
+                    "AVG7": 21.3,
+                    "AVGS": 30.3,
+                    "PLAYERNAME": "Dejounte Murray"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "\u00a0"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "\u00a0"
+                }
+            ],
+            "statistics": [
+                30.3,
+                90.9,
+                47.93,
+                45.6,
+                15.9,
+                1.44,
+                2.74
+            ],
+            "teamId": []
+        },
+        "9": {
+            "name": "Raging Harden (RUHL)",
+            "players": [
+                "James Harden",
+                "Victor Oladipo",
+                "Otto Porter Jr.",
+                "Hassan Whiteside",
+                "Austin Rivers",
+                "Ben Simmons",
+                "Stephen Curry",
+                "Reggie Jackson",
+                "David U. Nwaba",
+                "Serge Ibaka",
+                "Devin Booker",
+                "Khris Middleton",
+                "Enes Kanter",
+                "Rudy Gay",
+                "DeMarre Carroll",
+                "Jabari Parker*"
+            ],
+            "roster": [],
+            "schedule": [
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 1 (Oct 17 - 22)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "W 1610-1512",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 2 (Oct 23 - 29)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "W 2366.5-1784",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 3 (Oct 30 - Nov 5)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 4 (Nov 6 - 12)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 5 (Nov 13 - 19)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 6 (Nov 20 - 26)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 7 (Nov 27 - Dec 3)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 8 (Dec 4 - 10)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 9 (Dec 11 - 17)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 10 (Dec 18 - 24)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 11 (Dec 25 - 31)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 12 (Jan 1 - 7)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 13 (Jan 8 - 14)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 14 (Jan 15 - 21)",
+                    "OPPONENT": "Triple  Bonzos (0-2)",
+                    "OWNER": "Hemal  Lalabhai",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 15 (Jan 22 - 28)",
+                    "OPPONENT": "Nikola Jokevic (1-1)",
+                    "OWNER": "Anthony Mayes",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 16 (Jan 29 - Feb 4)",
+                    "OPPONENT": "FUCK AVERY BRADLEY (0-2)",
+                    "OWNER": "Parker Welch",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 17 (Feb 5 - 11)",
+                    "OPPONENT": "LaMarc Gasoldridge (1-1)",
+                    "OWNER": "Daniel Stewart, Leo Gomon",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 18 (Feb 12 - 25)",
+                    "OPPONENT": "The Condiment Conglomerate (1-1)",
+                    "OWNER": "Andrew Hines",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 19 (Feb 26 - Mar 4)",
+                    "OPPONENT": "Splashimus Prime (2-0)",
+                    "OWNER": "adam marsh",
+                    "RESULT": "Box",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Matchup 20 (Mar 5 - 11)",
+                    "OPPONENT": "J.R.'s GLUE CREW (1-1)",
+                    "OWNER": "Corey Hammond",
+                    "RESULT": "Box",
+                    "TRASH": "at\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 1 (Mar 12 - 25)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                },
+                {
+                    "LOSSES": 0,
+                    "MATCHUP": "Round 2 (Mar 26 - Apr 11)",
+                    "OPPONENT": "TBD",
+                    "OWNER": "\u00a0",
+                    "RESULT": "\u00a0",
+                    "TRASH": "\u00a0",
+                    "WIN%": 0.0,
+                    "WINS": 0
+                }
+            ],
+            "scoring": [
+                {
+                    "AVG15": 71.6,
+                    "AVG30": 71.4,
+                    "AVG7": 80.3,
+                    "AVGS": 71.4,
+                    "PLAYERNAME": "Ben Simmons"
+                },
+                {
+                    "AVG15": 71.4,
+                    "AVG30": 68.2,
+                    "AVG7": 80.8,
+                    "AVGS": 68.2,
+                    "PLAYERNAME": "Stephen Curry"
+                },
+                {
+                    "AVG15": 65.5,
+                    "AVG30": 65.9,
+                    "AVG7": 61.9,
+                    "AVGS": 65.9,
+                    "PLAYERNAME": "James Harden"
+                },
+                {
+                    "AVG15": 47.0,
+                    "AVG30": 62.7,
+                    "AVG7": 47.0,
+                    "AVGS": 62.7,
+                    "PLAYERNAME": "Hassan Whiteside"
+                },
+                {
+                    "AVG15": 61.4,
+                    "AVG30": 57.9,
+                    "AVG7": 39.0,
+                    "AVGS": 57.9,
+                    "PLAYERNAME": "Otto Porter Jr."
+                },
+                {
+                    "AVG15": 54.6,
+                    "AVG30": 55.3,
+                    "AVG7": 50.9,
+                    "AVGS": 55.3,
+                    "PLAYERNAME": "Victor Oladipo"
+                },
+                {
+                    "AVG15": 52.5,
+                    "AVG30": 49.5,
+                    "AVG7": 62.1,
+                    "AVGS": 49.5,
+                    "PLAYERNAME": "Devin Booker"
+                },
+                {
+                    "AVG15": 51.0,
+                    "AVG30": 48.3,
+                    "AVG7": 50.0,
+                    "AVGS": 48.3,
+                    "PLAYERNAME": "Enes Kanter"
+                },
+                {
+                    "AVG15": 41.1,
+                    "AVG30": 42.4,
+                    "AVG7": 43.1,
+                    "AVGS": 42.4,
+                    "PLAYERNAME": "Reggie Jackson"
+                },
+                {
+                    "AVG15": 41.9,
+                    "AVG30": 41.6,
+                    "AVG7": 55.6,
+                    "AVGS": 41.6,
+                    "PLAYERNAME": "Khris Middleton"
+                },
+                {
+                    "AVG15": 42.5,
+                    "AVG30": 40.1,
+                    "AVG7": 39.0,
+                    "AVGS": 40.1,
+                    "PLAYERNAME": "DeMarre Carroll"
+                },
+                {
+                    "AVG15": 33.4,
+                    "AVG30": 34.1,
+                    "AVG7": 31.8,
+                    "AVGS": 34.1,
+                    "PLAYERNAME": "Rudy Gay"
+                },
+                {
+                    "AVG15": 36.1,
+                    "AVG30": 33.0,
+                    "AVG7": 17.7,
+                    "AVGS": 33.0,
+                    "PLAYERNAME": "Jakob Poeltl"
+                },
+                {
+                    "AVG15": 30.3,
+                    "AVG30": 29.4,
+                    "AVG7": 18.0,
+                    "AVGS": 29.4,
+                    "PLAYERNAME": "Serge Ibaka"
+                },
+                {
+                    "AVG15": 29.8,
+                    "AVG30": 24.5,
+                    "AVG7": 37.7,
+                    "AVGS": 24.5,
+                    "PLAYERNAME": "Austin Rivers"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "Jabari Parker"
+                },
+                {
+                    "AVG15": null,
+                    "AVG30": null,
+                    "AVG7": null,
+                    "AVGS": null,
+                    "PLAYERNAME": "\u00a0"
+                }
+            ],
+            "statistics": [
+                24.5,
+                71.4,
+                48.29,
+                48.3,
+                14.87,
+                0.06,
+                -1.2
+            ],
+            "teamId": []
+        }
+    },
+    "WeeklyReport": {}
+}

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import PlayerViewer from './playerViewer.js';
+import TeamData from './teamView.js';
 
 
 class App extends Component {
@@ -15,6 +16,7 @@ class App extends Component {
         <div>
           <p className="App-intro">We are going to make an App to help us win fantasy basketball</p>
           <PlayerViewer className="PlayerView"/> 
+          <TeamData />
         </div>
       </div>
     );
