@@ -40,7 +40,7 @@
         ]
     },
     "Player": {},
-    "Team": {
+    "Team": [{
         "1": {
             "name": "Nikola Jokevic (NEEK)",
             "players": [
@@ -3044,6 +3044,6 @@
             ],
             "teamId": []
         }
-    },
+    }],
     "WeeklyReport": {}
 }

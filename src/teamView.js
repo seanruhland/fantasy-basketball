@@ -5,6 +5,8 @@ import './App.css';
 // console.log(Data.Team)
 function TeamView(props) {
   const teams = props.data;
+  const teamId = teams;	
+  console.log(teamId)
   const listItems = teams.map((team) =>
         <div key={team.name.toString()}>
             
@@ -21,7 +23,7 @@ function TeamView(props) {
 
   
   const data = Data.Team;
-  
+
 class TeamData extends React.Component {
   constructor(){
     super();
