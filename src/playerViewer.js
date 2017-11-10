@@ -6,37 +6,37 @@ import './App.css';
 function PlayersList(props) {
   const players = props.players
   const listItems = players.map((player) =>
-        <div class="container" key={player.key.toString()}>
+        <div className="container" key={player.key.toString()}>
             
-            <div class="align-items-center">
-              <div class="Name"> {player.NAME}</div>
+            <div className="align-items-center">
+              <div className="Name"> {player.NAME}</div>
               </div>
-             <div class="row">
-                 <div class="col-6">
+             <div className="row">
+                 <div className="col-6">
                   Total Games this week: {player.TOTAL}
                 </div>
-                <div class="col-6">
+                <div className="col-6">
                   Projected Points : {player.PROJ_PTS}
                 </div>
              </div>
-             <div class="row">
-                 <div class="col-md-auto">
+             <div className="row">
+                 <div className="col-md-auto">
                   7 day average:       {player.AVG7}
                 </div>
-                <div class="col-md-auto">
+                <div className="col-md-auto">
                   15 day average: {player.AVG15}
                 </div>
-                 <div class="col-md-auto">
+                 <div className="col-md-auto">
                   30 day average: {player.AVG30}
                 </div>
                </div>
-             <div class="row">
-                <div class="col" class="Season">
+             <div className="row">
+                <div className="col" className="Season">
                   Season Average
                 </div>
              </div>
-             <div class="row">
-                <div class="col" class="Season">
+             <div className="row">
+                <div className="col" className="Season">
                   {player.AVGS}
                 </div>
              </div>
