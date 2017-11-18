@@ -32,36 +32,12 @@
   font-size:22px;
   font-style: italic;
   font-family: Georgia;
-  text-align: left;
-    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-   
+ 
 }
 
 .row {
    position:relative;
    
-}
-
-.StatRow {
-  position:relative;
-   -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-}
-.AvgBox {
-   -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-
-}
-.Season {
-  font-family: verdana;
-  font-weight: bold;
-  font-size:30px;
-  text-align: center;
-
 }
 
 @keyframes App-logo-spin {
@@ -74,9 +50,7 @@
   height:250px;
 }
 
-
-
-.img {
-  max-height:100%;
-  max-width:100%;
+.card-img-top {
+  width:300px;
+  height:200px;
 }
