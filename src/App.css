@@ -50,7 +50,11 @@
   height:250px;
 }
 
-.card-img-top {
+.img-top {
   width:300px;
   height:200px;
+}
+
+.text {
+  float:left;
 }

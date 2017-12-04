@@ -6,27 +6,28 @@ import './App.css';
         width: 202, 
 
 };
+const divWidth = {
+    width:500,
+};
+
 function PlayersList(props) {
   const players = props.players
+
   const listItems = players.map((player) =>
-        <div key={player.key.toString()}>
-            <div class="card text-center" style={divStyle}>
-             <div class="card-body">
-                <h4 class="card-title">{player.name}</h4>
-                <h6 class="card-subtitle text-muted">Average: {player.AVGS} Projected Points: {player.PROJ_PTS}</h6>
-              </div>
-
-
-                  <img src="https://cdn.fansided.com/wp-content/assets/site_images/fansided/headers/logo-nba-free-agency__150x150.png" alt="Photo of sunset" />
-              <div class="card-body">
-                <p class="card-text">7 day average: {player.AVG7}</p>
-                <p class="card-text">15 day average: {player.AVG15}</p>
-                <p class="card-text">30 day average: {player.AVG30}</p>
-
-                <a href="#" class="btn btn-info">Full Report</a>
-              </div>
+        <div class='card' key={player.key.toString()}>
+            <div class="row">
+              <div class="span4">
+                 <div class="clearfix content-heading">
+                    <img class="pull-left" src={player.imgsrc}/>
+                      <h3>{player.name}</h3>
+                 </div>
+                    <p>7 day average: {player.AVG7}</p>
+                  <p>15 day average: {player.AVG15}</p>
+                  <p>30 day average: {player.AVG30}</p>
+                  <p >Composite Avg: {Math.round(player.COMPOSITE)}</p>
+             </div>
             </div>
-          </div>
+        </div>
   );
   return (
     <ul>{listItems}</ul>
