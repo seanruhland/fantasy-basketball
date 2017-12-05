@@ -8,9 +8,9 @@ function TeamView(props) {
   const teams = props.data
    // console.log(teams)
   const listItems = teams.map((team) =>
-        <div key={team.key.toString()}>
-            <div classNAme="card">
-				<img className="card-image-top" src="http://14042-presscdn-0-36.pagely.netdna-cdn.com/wp-content/uploads/2015/02/gzxolsnmemnno8jxwvbt.jpg" alt="Stephen Curry" />
+        <div className="container" key={team.key.toString()}>
+            <div classNAme="row">
+				<img className="teamImg" src="http://14042-presscdn-0-36.pagely.netdna-cdn.com/wp-content/uploads/2015/02/gzxolsnmemnno8jxwvbt.jpg" alt="Stephen Curry" />
 				<div class="card-body">
 					<h4 class="card-title">{team.name}</h4>
 					<p class="card-text">{team.players.join(" ")}</p>

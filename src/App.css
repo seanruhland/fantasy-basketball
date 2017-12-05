@@ -21,7 +21,7 @@
 .App-intro {
   font-size: large;
 }
-
+/*
 .PlayerView {
   height: 200px;
   border: 2px blue;
@@ -33,12 +33,7 @@
   font-style: italic;
   font-family: Georgia;
  
-}
-
-.row {
-   position:relative;
-   
-}
+}*/
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
@@ -46,15 +41,28 @@
 }
 
 .container {
-  border:3px solid purple;
-  height:250px;
+  margin:5px;
+  background-image: url("http://tucsonspl.com/wp-content/uploads/2015/06/basketball-court-backgroundbg-basketball_court1jpg-ltu8v0qg3.jpg");
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-.img-top {
-  width:300px;
-  height:200px;
-}
 
 .text {
+  float:left;
+  color:white;
+}
+.name {
+  color:gray;
+  font-style:oblique;
+  text-transform: uppercase;
+  text-shadow: 3px 2px white;
+}
+
+.imgSize {
+  height:150px;
+  width:200px;
   float:left;
 }
