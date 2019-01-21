@@ -42,27 +42,115 @@
 
 .container {
   margin:5px;
-  background-image: url("http://tucsonspl.com/wp-content/uploads/2015/06/basketball-court-backgroundbg-basketball_court1jpg-ltu8v0qg3.jpg");
+  /*background-image: url("http://tucsonspl.com/wp-content/uploads/2015/06/basketball-court-backgroundbg-basketball_court1jpg-ltu8v0qg3.jpg");*/
    -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
+.image {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+.imageOne {
+    z-index: 1;
+    width:200px;
+    height:150px;
+    position:absolute;
+    margin-left: 25px;
+    margin-top:17px;
+}
+.imageTwo {
+    z-index: 0;
+    height:180px;
+    width:250px;
+    margin-bottom: -5px
+
+}
+.court {
+  background-image: url("https://img.clipartxtras.com/82377b3a7c57c69ff30d370d325701ae_basketball-half-court-clipart-clipart-panda-free-clipart-images-basketball-half-court-clipart_800-599.jpeg");
+}
 
 .text {
-  float:left;
+  /*float:left;*/
   color:white;
+  font-family: Optima;
 }
 .name {
-  color:gray;
-  font-style:oblique;
+  color:white;
+  font-family: Optima;
   text-transform: uppercase;
-  text-shadow: 3px 2px white;
+  position:absolute;
+}
+.position {
+  color:white;
+  font-family: Optima;
+  text-transform: uppercase;
+  font-size:35px;
+  margin-top:40px;
+}
+.imgContainer {
+    position: relative;
 }
 
+.table th, .table td { 
+     border-top: none !important; 
+ }
+
+ .table-condensed>thead>tr>th, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>tbody>tr>td, .table-condensed>tfoot>tr>td{
+    padding: 1px;
+    width:76px;
+}
+
+#averages {
+  font-size: 18px;
+  font-style:bold;
+  text-transform: uppercase;
+}
+
+#composite {
+  font-size: 38px;
+  font-style:bold;
+  text-transform: uppercase;
+  color:#021260;
+}
+
+.numbers {
+  font-size: 28px;
+  font-style:bold;
+  line-height: .9;
+}
+.table td, .table th {
+    min-width: 76px;
+}
+/*
 .imgSize {
   height:150px;
   width:200px;
-  float:left;
+  position: absolute;
+  border: 1px solid green;
+  /*float:left;
+}*/
+.gradient {
+    background-color: rgba(4, 0, 0, 0.5);
+    /* IE9, iOS 3.2+ */
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjxyYWRpYWxHcmFkaWVudCBpZD0idnNnZyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGN4PSIwJSIgY3k9IjAlIiByPSIxNDEuNDIxMzU2MjM3MzA5NSUiPjxzdG9wIHN0b3AtY29sb3I9IiMwNDAwMDAiIHN0b3Atb3BhY2l0eT0iMSIgb2Zmc2V0PSIwIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzA0MDAwMCIgc3RvcC1vcGFjaXR5PSIwIiBvZmZzZXQ9IjEiLz48L3JhZGlhbEdyYWRpZW50PjxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCN2c2dnKSIgLz48L3N2Zz4=);
+    /* Android 2.3- hack (needed for the actual radial gradient) */
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjxyYWRpYWxHcmFkaWVudCBpZD0idnNnZyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGN4PSIwJSIgY3k9IjAlIiByPSIxNDEuNDIxMzU2MjM3MzA5NSUiPjxzdG9wIHN0b3AtY29sb3I9IiMwNDAwMDAiIHN0b3Atb3BhY2l0eT0iMSIgb2Zmc2V0PSIwIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzA0MDAwMCIgc3RvcC1vcGFjaXR5PSIwIiBvZmZzZXQ9IjEiLz48L3JhZGlhbEdyYWRpZW50PjxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCN2c2dnKSIgLz48L3N2Zz4=),
+        -webkit-gradient(radial, left top, 0, left top, 723,color-stop(0, rgb(4, 0, 0)),color-stop(1, rgba(4, 0, 0, 0)));
+    /* Android 2.3 */
+    background-image: -webkit-repeating-radial-gradient(left top, circle farthest-corner,rgb(4, 0, 0) 0%,rgba(4, 0, 0, 0) 100%);
+    /* IE10+ */
+    background-image: repeating-radial-gradient(circle farthest-corner at left top,rgb(4, 0, 0) 0%,rgba(4, 0, 0, 0) 100%);
+    background-image: -ms-repeating-radial-gradient(left top, circle farthest-corner,rgb(4, 0, 0) 0%,rgba(4, 0, 0, 0) 100%);
+}
+ 
+/* IE8- CSS hack */
+@media \0screen\,screen\9 {
+    .gradient {
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff040000",endColorstr="#00040000",GradientType=0);
+    }
 }
